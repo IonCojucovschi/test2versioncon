@@ -132,6 +132,10 @@
             this.Controls.Add(this.button1);
             this.Name = "cevata";
             this.Text = "cevata";
+<<<<<<< HEAD
+=======
+            this.Load += new System.EventHandler(this.cevata_Load);
+>>>>>>> develop3
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();

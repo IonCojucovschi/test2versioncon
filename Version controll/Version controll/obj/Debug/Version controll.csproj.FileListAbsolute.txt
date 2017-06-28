@@ -11,8 +11,17 @@ D:\Practica\Lectia 1\git Test1\Version controll\Version controll\obj\Debug\Versi
 C:\Users\Ion C#\Desktop\apgit\test2versioncon\Version controll\Version controll\bin\Debug\Version controll.exe.config
 C:\Users\Ion C#\Desktop\apgit\test2versioncon\Version controll\Version controll\obj\Debug\Version controll.exe
 C:\Users\Ion C#\Desktop\apgit\test2versioncon\Version controll\Version controll\obj\Debug\Version controll.pdb
+<<<<<<< HEAD
+=======
+C:\Users\Ion C#\Desktop\apgit\test2versioncon\Version controll\Version controll\bin\Debug\Version controll.exe
+C:\Users\Ion C#\Desktop\apgit\test2versioncon\Version controll\Version controll\bin\Debug\Version controll.pdb
+>>>>>>> develop3
 C:\Users\Ion C#\Desktop\apgit\test2versioncon\Version controll\Version controll\obj\Debug\Version controll.csprojResolveAssemblyReference.cache
 C:\Users\Ion C#\Desktop\apgit\test2versioncon\Version controll\Version controll\obj\Debug\Version_controll.cevata.resources
 C:\Users\Ion C#\Desktop\apgit\test2versioncon\Version controll\Version controll\obj\Debug\Version_controll.Form1.resources
 C:\Users\Ion C#\Desktop\apgit\test2versioncon\Version controll\Version controll\obj\Debug\Version_controll.Properties.Resources.resources
 C:\Users\Ion C#\Desktop\apgit\test2versioncon\Version controll\Version controll\obj\Debug\Version controll.csproj.GenerateResource.Cache
+<<<<<<< HEAD
+=======
+C:\Users\Ion C#\Desktop\apgit\test2versioncon\Version controll\Version controll\obj\Debug\Version_controll.GittesDev3.resources
+>>>>>>> develop3
