@@ -16,5 +16,10 @@ namespace Version_controll
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Ati facut clic pe buton1!!");
+        }
     }
 }
