@@ -1,0 +1,10 @@
+D:\Practica\Lectia 1\git Test1\Version controll\Version controll\bin\Debug\Version controll.exe.config
+D:\Practica\Lectia 1\git Test1\Version controll\Version controll\bin\Debug\Version controll.exe
+D:\Practica\Lectia 1\git Test1\Version controll\Version controll\bin\Debug\Version controll.pdb
+D:\Practica\Lectia 1\git Test1\Version controll\Version controll\obj\Debug\Version controll.csprojResolveAssemblyReference.cache
+D:\Practica\Lectia 1\git Test1\Version controll\Version controll\obj\Debug\Version_controll.cevata.resources
+D:\Practica\Lectia 1\git Test1\Version controll\Version controll\obj\Debug\Version_controll.Form1.resources
+D:\Practica\Lectia 1\git Test1\Version controll\Version controll\obj\Debug\Version_controll.Properties.Resources.resources
+D:\Practica\Lectia 1\git Test1\Version controll\Version controll\obj\Debug\Version controll.csproj.GenerateResource.Cache
+D:\Practica\Lectia 1\git Test1\Version controll\Version controll\obj\Debug\Version controll.exe
+D:\Practica\Lectia 1\git Test1\Version controll\Version controll\obj\Debug\Version controll.pdb

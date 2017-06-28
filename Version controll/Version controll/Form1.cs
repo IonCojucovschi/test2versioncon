@@ -20,6 +20,7 @@ namespace Version_controll
         private void button1_Click(object sender, EventArgs e)
         {
             cevata cv = new cevata();
+            cv.Show();
         }
     }
 }
