@@ -16,5 +16,10 @@ namespace Version_controll
             cevata cv = new cevata();
             cv.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Adaoga un text te roggg !!!!!!!");
+        }
     }
 }
