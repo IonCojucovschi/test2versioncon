@@ -8,3 +8,13 @@ D:\Practica\Lectia 1\git Test1\Version controll\Version controll\obj\Debug\Versi
 D:\Practica\Lectia 1\git Test1\Version controll\Version controll\obj\Debug\Version controll.csproj.GenerateResource.Cache
 D:\Practica\Lectia 1\git Test1\Version controll\Version controll\obj\Debug\Version controll.exe
 D:\Practica\Lectia 1\git Test1\Version controll\Version controll\obj\Debug\Version controll.pdb
+C:\Users\Ion C#\Desktop\apgit\test2versioncon\Version controll\Version controll\bin\Debug\Version controll.exe.config
+C:\Users\Ion C#\Desktop\apgit\test2versioncon\Version controll\Version controll\obj\Debug\Version controll.exe
+C:\Users\Ion C#\Desktop\apgit\test2versioncon\Version controll\Version controll\obj\Debug\Version controll.pdb
+C:\Users\Ion C#\Desktop\apgit\test2versioncon\Version controll\Version controll\bin\Debug\Version controll.exe
+C:\Users\Ion C#\Desktop\apgit\test2versioncon\Version controll\Version controll\bin\Debug\Version controll.pdb
+C:\Users\Ion C#\Desktop\apgit\test2versioncon\Version controll\Version controll\obj\Debug\Version controll.csprojResolveAssemblyReference.cache
+C:\Users\Ion C#\Desktop\apgit\test2versioncon\Version controll\Version controll\obj\Debug\Version_controll.cevata.resources
+C:\Users\Ion C#\Desktop\apgit\test2versioncon\Version controll\Version controll\obj\Debug\Version_controll.Form1.resources
+C:\Users\Ion C#\Desktop\apgit\test2versioncon\Version controll\Version controll\obj\Debug\Version_controll.Properties.Resources.resources
+C:\Users\Ion C#\Desktop\apgit\test2versioncon\Version controll\Version controll\obj\Debug\Version controll.csproj.GenerateResource.Cache

@@ -16,5 +16,16 @@ namespace Version_controll
         {
             InitializeComponent();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("BUtomnul3!!!!");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            GittesDev3 gt = new GittesDev3();
+            gt.Show();
+        }
     }
 }
