@@ -10,22 +10,16 @@ using System.Windows.Forms;
 
 namespace Version_controll
 {
-    public partial class cevata : Form
+    public partial class GittesDev3 : Form
     {
-        public cevata()
+        public GittesDev3()
         {
             InitializeComponent();
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("BUtomnul3!!!!");
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            GittesDev3 gt = new GittesDev3();
-            gt.Show();
+            MessageBox.Show("Ati facut clic pe buton1!!");
         }
     }
 }
