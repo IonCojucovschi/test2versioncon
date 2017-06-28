@@ -18,3 +18,4 @@ C:\Users\Ion C#\Desktop\apgit\test2versioncon\Version controll\Version controll\
 C:\Users\Ion C#\Desktop\apgit\test2versioncon\Version controll\Version controll\obj\Debug\Version_controll.Form1.resources
 C:\Users\Ion C#\Desktop\apgit\test2versioncon\Version controll\Version controll\obj\Debug\Version_controll.Properties.Resources.resources
 C:\Users\Ion C#\Desktop\apgit\test2versioncon\Version controll\Version controll\obj\Debug\Version controll.csproj.GenerateResource.Cache
+C:\Users\Ion C#\Desktop\apgit\test2versioncon\Version controll\Version controll\obj\Debug\Version_controll.GittesDev3.resources

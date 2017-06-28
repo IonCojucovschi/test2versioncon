@@ -27,5 +27,10 @@ namespace Version_controll
             GittesDev3 gt = new GittesDev3();
             gt.Show();
         }
+
+        private void cevata_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
