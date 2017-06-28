@@ -16,5 +16,10 @@ namespace Version_controll
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            cevata cv = new cevata();
+        }
     }
 }
