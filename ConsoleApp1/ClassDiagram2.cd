@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleApp1.MijTransport">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAACgAIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MijTransport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp1.Rutiere">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <InheritanceLine Type="ConsoleApp1.MijTransport" FixedFromPoint="true">
+      <Path>
+        <Point X="2.625" Y="2.373" />
+        <Point X="2.625" Y="2.558" />
+        <Point X="1.25" Y="2.558" />
+        <Point X="1.25" Y="2.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAABAAAIAAAAAA=</HashCode>
+      <FileName>Rutiere.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp1.Troleibuze">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAABAAAIAAAAAA=</HashCode>
+      <FileName>Troleibuze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp1.autobuze">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <InheritanceLine Type="ConsoleApp1.MijTransport" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="3.5" Y="2.373" />
+        <Point X="3.5" Y="2.558" />
+        <Point X="5.25" Y="2.558" />
+        <Point X="5.25" Y="2.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAABAAAIAAAAAA=</HashCode>
+      <FileName>autobuze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
