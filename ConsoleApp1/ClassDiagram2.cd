@@ -44,5 +44,49 @@
       <FileName>autobuze.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="ConsoleApp1.Lucratorii">
+    <Position X="12.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAQAAAAAAAAAAAQAAAAAEAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lucratorii.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp1.conducVeh">
+    <Position X="10.75" Y="4" Width="1.5" />
+    <InheritanceLine Type="ConsoleApp1.Lucratorii" FixedFromPoint="true">
+      <Path>
+        <Point X="12.688" Y="3.123" />
+        <Point X="12.688" Y="3.625" />
+        <Point X="11.5" Y="3.625" />
+        <Point X="11.5" Y="4" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAABAAAAAAAAAAAAAAEAQA=</HashCode>
+      <FileName>conducVeh.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp1.munc_Inter">
+    <Position X="13.25" Y="4" Width="1.5" />
+    <InheritanceLine Type="ConsoleApp1.Lucratorii" FixedFromPoint="true">
+      <Path>
+        <Point X="13.25" Y="3.123" />
+        <Point X="13.25" Y="3.625" />
+        <Point X="14" Y="3.625" />
+        <Point X="14" Y="4" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAABAAAAAAAAAAAAAAEAQA=</HashCode>
+      <FileName>munc_Inter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp1.Utilizatori">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAICAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilizatori.cs</FileName>
+    </TypeIdentifier>
+  </Class>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>
