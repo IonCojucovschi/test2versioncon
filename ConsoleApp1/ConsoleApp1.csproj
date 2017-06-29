@@ -42,8 +42,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="autobuze.cs" />
+    <Compile Include="conducVeh.cs" />
+    <Compile Include="Lucratorii.cs" />
+    <Compile Include="MijTransport.cs" />
+    <Compile Include="munc_Inter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rutiere.cs" />
+    <Compile Include="Troleibuze.cs" />
+    <Compile Include="Utilizatori.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
