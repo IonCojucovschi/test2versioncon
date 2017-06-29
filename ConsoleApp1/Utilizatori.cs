@@ -10,5 +10,6 @@ namespace ConsoleApp1
         public String Admin;
         public String Moderators;
         public String Users;
+        private int location;
     }
 }
